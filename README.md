@@ -1,2 +1,2 @@
-goal.png
-![Display-Grid](./oal.png)
+
+![Display-Grid](./goal.png)
